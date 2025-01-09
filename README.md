@@ -26,11 +26,14 @@ Run Gender_model [gender_classifier.ipynb] - https://github.com/Ash8277-hub/Gend
 
 Run the Model [hair_length_predict.ipynb] - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/Hair_length_model/hair%20length%20predict.ipynb
 
-The both trained Age and Gender models are saved in a .keras type. 
-My models [Path] https://drive.google.com/drive/folders/1rxq_J6pDF9VI72Fr70xir7AdUfdzjThx?usp=sharing
-
 Run the [gui.ipynb] https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/11e3325f6148dfccf83df82db1595e3e210d69ac/Long%20Short%20Hair%20Identification/Hair%26Gender_Detection%20GUI.ipynb
 
 Upload the Image that you want to detect
 Click on Detect button
-View the Results
+View the Result
+
+My trained models are saved in a .keras type. 
+My models [Path] - https://drive.google.com/drive/folders/1rxq_J6pDF9VI72Fr70xir7AdUfdzjThx?usp=sharing
+Model weight [hair-length.weight.h5] - https://drive.google.com/file/d/1j03NA8sojBDVlhvyvxbHRhy97iNUQO4N/view?usp=sharing
+
+
