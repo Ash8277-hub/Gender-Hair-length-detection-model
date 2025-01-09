@@ -3,29 +3,31 @@
 
 ##To Run this Model:
 Clone this Repository
-Run the [gui.ipynb] https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/11e3325f6148dfccf83df82db1595e3e210d69ac/Long%20Short%20Hair%20Identification/Hair%26Gender_Detection%20GUI.ipynb
 
-upload the the Image that you want to detect
-Click on Detect button
-View the Results
-
-##To run this Model yourself
-
-Clone this Repository
-
-Download the Dataset from the [here] https://drive.google.com/drive/folders/1VC_9tidbjMh8UBv_IuTWymB_krtu4cge?usp=sharing 
+Download the Datasets from the [here] 
+1 - https://drive.google.com/drive/folders/1VC_9tidbjMh8UBv_IuTWymB_krtu4cge?usp=sharing 
+2 - https://www.kaggle.com/datasets/jangedoo/utkface-new
 Extract the Dataset to your repository folder
 
-Run Age_model [age_classification.ipynb] - 
+organize datasets
+For Age_data_organize - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/dataset/data%20age%20organize.ipynb
 
-Run Gender_model [gender_classifier.ipynb] - 
+For gender_data_organize - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/dataset/data%20gender%20organize.ipynb
+
+For Organize hair data first -
+Run Feature extraction [hair_feature_extraction.ipynb] -  https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/Hair_length_model/hair_feature_extraction.ipynb
+
+After Feature extraction
+For hair data organize - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/521e22ca8e409e7f1a2f4b717bfbd05a41144f05/Long%20Short%20Hair%20Identification/dataset/hairdata%20organize.ipynb
+
+Run Age_model [age_classification.ipynb] - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/tree/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/Age_model
+
+Run Gender_model [gender_classifier.ipynb] - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/tree/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/Gender_model
+
+Run the Model [hair_length_predict.ipynb] - https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/800e5b9bc2793b0e37eb7cb0a0c84790afa64939/Long%20Short%20Hair%20Identification/Hair_length_model/hair%20length%20predict.ipynb
 
 The both trained Age and Gender models are saved in a .keras type. 
-My models [Path] 
-
-Run Feature extraction [hair_feature_extraction.ipynb] -  
-
-Run the Model [hair_length_predict.ipynb] Long Short Hair Identification/Hair_length_model/hair length predict.ipynb
+My models [Path] https://drive.google.com/drive/folders/1rxq_J6pDF9VI72Fr70xir7AdUfdzjThx?usp=sharing
 
 Run the [gui.ipynb] https://github.com/Ash8277-hub/Gender-Hair-length-detection-model/blob/11e3325f6148dfccf83df82db1595e3e210d69ac/Long%20Short%20Hair%20Identification/Hair%26Gender_Detection%20GUI.ipynb
 
