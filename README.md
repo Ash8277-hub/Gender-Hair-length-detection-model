@@ -37,3 +37,17 @@ My models [Path] - https://drive.google.com/drive/folders/1rxq_J6pDF9VI72Fr70xir
 Model weight [hair-length.weight.h5] - https://drive.google.com/file/d/1j03NA8sojBDVlhvyvxbHRhy97iNUQO4N/view?usp=sharing
 
 
+
+
+
+
+
+
+
+
+Example results
+
+1- ![image](https://github.com/user-attachments/assets/58249705-bc66-4b01-8607-bffcd9ef42ac)
+
+2- ![image](https://github.com/user-attachments/assets/f521e57b-6ecb-460b-9772-99ed20aa2d0a)
+
